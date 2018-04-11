@@ -167,9 +167,9 @@
 										<h2>Menu</h2>
 									</header>
 									<ul>
-										<li><a href="index.html">Homepage</a></li>
-										<li><a href="generic.html">Generic</a></li>
-										<li><a href="elements.html">Elements</a></li>
+										<li><a href="/">Homepage</a></li>
+										<li><a href="/generic">Generic</a></li>
+										<li><a href="/elements">Elements</a></li>
 										<li>
 											<span class="opener">Submenu</span>
 											<ul>
